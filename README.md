@@ -152,4 +152,15 @@ http://127.0.0.1:8000/docs
 - No FAISS / Chroma used  
 - No RetrievalQAChain used  
 - Custom RAG pipeline implemented  
-- Redis used for chat memory 
+- Redis used for chat memory
+
+## Screenshots
+
+### API Documentation
+![Swagger UI](screenshots/swagger.png)
+
+### Chat Response
+![Chat](screenshots/chat.png)
+
+### Booking System
+![Booking](screenshots/booking.png)
