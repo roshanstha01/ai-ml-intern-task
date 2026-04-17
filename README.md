@@ -136,3 +136,20 @@ ollama run llama3
 ```bash
 uvicorn app.main:app --reload
 ```
+
+### 4. API Documentation
+
+Open in browser:
+
+```
+http://127.0.0.1:8000/docs
+```
+
+---
+
+## Constraints Followed
+
+- No FAISS / Chroma used  
+- No RetrievalQAChain used  
+- Custom RAG pipeline implemented  
+- Redis used for chat memory 
