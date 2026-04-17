@@ -1,4 +1,4 @@
-# AI/ML Intern Task
+<img width="1854" height="856" alt="Booking_1_response" src="https://github.com/user-attachments/assets/ddcb86e3-c49f-4dc7-ace1-0039bd0f566e" /><img width="1816" height="894" alt="Test_Multi_turn_memory" src="https://github.com/user-attachments/assets/4568c896-0f1e-4e35-a7b1-585b72d94aec" /># AI/ML Intern Task
 
 ## Candidate
 **Name:** Roshan Shrestha  
@@ -164,3 +164,27 @@ http://127.0.0.1:8000/docs
 
 ### Document Database
 ![Booking](assets/Document_db.png)
+
+### Conversational RAG
+![Booking](assets/Conversational_RAG_first_question.png)
+
+### Conversational RAG Response
+![Booking](assets/Conversational_RAG_first_question_answer.png)
+
+### Multi Turn Memory Test
+![Booking](assets/Test_Multi_turn_memory.png)
+
+### Multi Turn Memory Test Response
+![Booking](assets/Test_Multi_turn_memory_test_response.png)
+
+### Booking
+![Booking](assets/Booking_1.png)
+
+### Booking Response
+![Booking](assets/Booking_1_response.png)
+
+
+### Booking Database
+![Booking](assets/booking_db.png)
+
+
