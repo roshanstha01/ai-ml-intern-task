@@ -156,11 +156,11 @@ http://127.0.0.1:8000/docs
 
 ## Screenshots
 
-### API Documentation
-![Swagger UI](screenshots/swagger.png)
+### Document Ingestion
+![Swagger UI](assets/Document_Ingestion_1.png)
 
-### Chat Response
-![Chat](screenshots/chat.png)
+### Document Ingestion Response
+![Chat](assets/Document_Ingestion_response.png)
 
 ### Booking System
 ![Booking](screenshots/booking.png)
