@@ -162,5 +162,5 @@ http://127.0.0.1:8000/docs
 ### Document Ingestion Response
 ![Chat](assets/Document_Ingestion_response.png)
 
-### Booking System
-![Booking](screenshots/booking.png)
+### Document Database
+![Booking](assets/Document_db.png)
