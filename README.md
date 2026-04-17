@@ -1,5 +1,3 @@
-<img width="1854" height="856" alt="Booking_1_response" src="https://github.com/user-attachments/assets/ddcb86e3-c49f-4dc7-ace1-0039bd0f566e" /><img width="1816" height="894" alt="Test_Multi_turn_memory" src="https://github.com/user-attachments/assets/4568c896-0f1e-4e35-a7b1-585b72d94aec" /># AI/ML Intern Task
-
 ## Candidate
 **Name:** Roshan Shrestha  
 
